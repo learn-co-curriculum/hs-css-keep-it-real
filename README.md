@@ -1,7 +1,4 @@
----
-tags: kids, culture
-type: culture
----
+
 
 ## Sometimes I don't understand what's the point of it all
 
